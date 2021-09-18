@@ -1,4 +1,4 @@
-[Button url="https://himanshuchittora23908.github.io/infinite-scroll/"]
+[demo] (https://himanshuchittora23908.github.io/infinite-scroll/){: .btn}
 - - - 
 
 # Getting Started with Create React App
